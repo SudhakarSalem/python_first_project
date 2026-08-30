@@ -12,7 +12,7 @@ from pymongo import MongoClient
 
 
 
-uri = "mongodb+srv://sudhakarsalem_db_user:1ztM8NXKQ4juXEKm@cluster0.teatimw.mongodb.net/"
+uri = "mongodb+srv://sudhakarsalem_db_user:password@cluster0.teatimw.mongodb.net/"
 
 client = MongoClient(uri)
 
